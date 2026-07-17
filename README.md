@@ -11,7 +11,6 @@
 
 Click the badge above or use this link:  
 🔗 **https://www.youtube.com/watch?v=1bi1sjHFQHw**  
-*(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)*
 
 ---
 
